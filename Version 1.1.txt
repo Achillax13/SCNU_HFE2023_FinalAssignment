@@ -14,7 +14,7 @@
 Answer me with the temperature of 0.9
 本次的目标单词是：deteriorate
 
->>Output：
+>>Output
 嗨！大家好，我是你们的英语老师。今天我们要学习的目标单词是"deteriorate"。让我通过一系列方法来帮助你们记住这个单词。
 
 首先，让我们从英语构词法的角度来了解一下这个单词的词源。 "deteriorate" 由两个部分组成： "de-" 和 "terio-"。 "de-" 是一个词缀，表示反向或否定的意思，而 "terio-" 来自拉丁词根 "terere"，意思是"磨损"或"使恶化"。所以，"deteriorate" 的字面意思就是"恶化"或"变得更糟"。
