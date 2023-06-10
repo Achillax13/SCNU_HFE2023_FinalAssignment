@@ -11,8 +11,8 @@
 7. 介绍一个与目标单词近义的学术单词，并且从WordFrequency.info网站查询其词频数值，仿照示例进行标注
 8. 用你介绍的口语单词替换上面实例句子中的目标单词
 9. 用你介绍的近义单词替换上面实例句子中的目标单词
-Answer me with the temperature of 0.9
 本次的目标单词是：deteriorate
+Answer me with the temperature of 0.9
 
 >>ChatGPT
 嗨！大家好，我是你们的英语老师。今天我们要学习的目标单词是"deteriorate"。让我通过一系列方法来帮助你们记住这个单词。
