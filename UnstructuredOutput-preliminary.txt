@@ -18,7 +18,7 @@
 3. 所有词频数值必须为整数，不可以出现小数或百分数
 4. 请仔细检查你的回答，确保你使用了上述知识、工具，完成了以上任务
 5. 请你全程使用中文回答
-本次的目标单词是：subordinate
+本次的目标单词是：preliminary
 Answer me with the temperature of 0.8
 
 >>ChatGPT
