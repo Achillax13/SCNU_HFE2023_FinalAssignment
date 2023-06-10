@@ -1,0 +1,11 @@
+{
+'Task1': 'determine是由拉丁语determinare演变而来，其词根deter表示“限制、决定”，后缀-ine表示“形容词”。',
+'Task2': '小明要去买一只狗，但他不确定哪种狗最适合他。于是他决定去动物收容所看看。他在那里看到了一只混血狗，狗狗看着他，似乎在说：“选我，选我。” 小明被狗狗的眼神打动了，最终他决定领养这只狗狗，并给它取名为Determine。',
+'Task3': '为了记忆determine这个单词，我们可以把它拆分成两个部分：deter和mine。可以联想到“deter”表示“限制、决定”，而“mine”则表示“我的、自己的”。所以，可以把determine理解为“自己做决定，做主人”。',
+'Task4': 'She tried to determine what had caused the accident. (她试图确定事故的原因。)',
+'Task5': '52',
+'Task6': 'determining(13782)',
+'Task7': 'She tried to determining what had caused the accident. (她试图确定事故的原因。)',
+'Task8': 'ascertain(11121)',
+'Task9': 'She tried to ascertain what had caused the accident. (她试图查明事故的原因。)'
+}
