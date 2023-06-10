@@ -2,7 +2,7 @@
 import openai
 import openpyxl as pyxl
 import time
-openai.api_key = "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"
+openai.api_key = input("Enter your API key:")
 
 # 定义ChatGPT交互函数
 def get_completion(prompt, model="gpt-3.5-turbo"):
